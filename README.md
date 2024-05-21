@@ -33,6 +33,12 @@ WHEN I click on the "New Note" button in the navigation at the top of the page
 THEN I am presented with empty fields to enter a new note title and the note’s text in the right-hand column and the button disappears
 ```
 
+## Links
+
+Repo: https://github.com/thernand09/Express-NoteTaker
+NoteTaker: https://express-notetaker-1-hnle.onrender.com/
+
+
 ## Usage
 
 User will be able to add notes to Note Taker by first running node server.js through command line. Command line will then generate localhost3001 url that will allow user to click on. User will be able to add notes to notee taker by using browser rather than command line. 
