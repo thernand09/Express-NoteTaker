@@ -37,5 +37,5 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 User will be able to add notes to Note Taker by first running node server.js through command line. Command line will then generate localhost3001 url that will allow user to click on. User will be able to add notes to notee taker by using browser rather than command line. 
 
 ## DEMO
-![Video](./assets/11-Express-NoteTaker.gif)
+(./assets/11-Express-NoteTaker.gif)
 
